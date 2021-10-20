@@ -1,0 +1,10 @@
+body{
+    background:linear-gradient(rgb(34, 13, 34),black) ;
+}
+p{
+    color: white;
+    font-family: Impact;
+    text-align: justify;
+    max-width:1000px;
+    
+}
